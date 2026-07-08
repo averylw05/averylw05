@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Avery Wirthlin 👋
 
-<!--
-**averylw05/averylw05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on becoming a software engineer. I'm currently building projects with JavaScript, HTML, CSS, Java, Spring Boot, REST APIs, and databases while preparing for software engineering internship opportunities.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I'm Working With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- JavaScript
+- HTML
+- CSS
+- SQL
+- MySQL
+- REST APIs
+- Git & GitHub
+- IntelliJ IDEA
+- VS Code
+
+## 🚀 Featured Projects
+
+### Job Application Tracker
+A responsive web app for tracking internship and job applications.
+
+**Built with:** HTML, CSS, JavaScript, localStorage
+
+**Features:**
+- Add, edit, and delete applications
+- Search applications
+- Filter by status
+- Save data in the browser
+- Responsive design
+
+---
+
+### Simple Help Desk
+A full-stack help desk ticket system for creating and managing support tickets.
+
+**Built with:** Java, Spring Boot, REST API, H2 Database, HTML, CSS, JavaScript
+
+**Features:**
+- Create support tickets
+- View all tickets
+- Update ticket status
+- Delete tickets
+- Connect frontend to backend with API requests
+
+## 🎯 Current Goal
+
+I'm currently seeking a **Software Engineering Internship** where I can contribute to real projects, learn from experienced developers, and continue growing my technical skills.
+
+## 📫 Connect With Me
+
+- Email: averywirthlin60@gmail.com
+- LinkedIn: https://www.linkedin.com/in/avery-l-1a87b43b7/
+- Portfolio: Add your portfolio link here after publishing
