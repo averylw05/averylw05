@@ -52,4 +52,4 @@ I'm currently seeking a **Software Engineering Internship** where I can contribu
 
 - Email: averywirthlin60@gmail.com
 - LinkedIn: https://www.linkedin.com/in/avery-l-1a87b43b7/
-- Portfolio: Add your portfolio link here after publishing
+
